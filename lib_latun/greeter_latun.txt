@@ -4,3 +4,4 @@ class Greeter
   end
 change 2
   def greet
+blah-blah-blah
