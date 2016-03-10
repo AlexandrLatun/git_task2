@@ -1,7 +1,11 @@
 class Greeter
+# comment temporary
   def initialize(who)
     @who = who
+    "Hello, #{@who}"
   end
-change 2
-  def greet
-blah-blah-blah
+  def greetgreate
+    "Hello WORLD, #{@who}"
+  end
+end
+
