@@ -1,4 +1,5 @@
 class Greeter
+# comment temporary
   def initialize(who)
     @who = who
   end
