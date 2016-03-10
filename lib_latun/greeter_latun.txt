@@ -5,6 +5,7 @@ class Greeter
     @who = who
     "Hello, #{@who}"
   end
+
   def greetgreate
     "Hello WORLD, #{@who}"
   end
