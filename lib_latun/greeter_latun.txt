@@ -4,8 +4,3 @@ class Greeter
   end
 change 2
   def greet
-    "Hello, #{@who}"
-  end
-end
-
-changed 1
